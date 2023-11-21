@@ -1,3 +1,5 @@
 # Vadim Portfolio
-vadim portfolio projects
-https://ruvamd.github.io/VadimPortfolio/
+
+website: https://ruvamd.github.io/VadimPortfolio/<br>
+content: personal projects<br>
+         resume<br>
